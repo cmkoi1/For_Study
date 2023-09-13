@@ -10,4 +10,6 @@ public class Solution {
             System.out.printf(str);
         }
     }
+    
+    
 }
